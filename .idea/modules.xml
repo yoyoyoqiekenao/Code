@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Code.iml" filepath="$PROJECT_DIR$/Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ceshidemo1.0/ceshidemo1.0.iml" filepath="$PROJECT_DIR$/ceshidemo1.0/ceshidemo1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dailynewsdemo1.0/dailynewsdemo1.0.iml" filepath="$PROJECT_DIR$/dailynewsdemo1.0/dailynewsdemo1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ebdemo1.0/ebdemo1.0.iml" filepath="$PROJECT_DIR$/ebdemo1.0/ebdemo1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/importdemo1.0/importdemo1.0.iml" filepath="$PROJECT_DIR$/importdemo1.0/importdemo1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvpdemo1.0/mvpdemo1.0.iml" filepath="$PROJECT_DIR$/mvpdemo1.0/mvpdemo1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvpdemo1.1/mvpdemo1.1.iml" filepath="$PROJECT_DIR$/mvpdemo1.1/mvpdemo1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitdemo1.0/retrofitdemo1.0.iml" filepath="$PROJECT_DIR$/retrofitdemo1.0/retrofitdemo1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitdemo1.1/retrofitdemo1.1.iml" filepath="$PROJECT_DIR$/retrofitdemo1.1/retrofitdemo1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testFragmentDemo/testFragmentDemo.iml" filepath="$PROJECT_DIR$/testFragmentDemo/testFragmentDemo.iml" />
+    </modules>
+  </component>
+</project>

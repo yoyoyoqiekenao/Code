@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Code\\testFragmentDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Code\\testFragmentDemo\\src\\main\\res\\values\\color.xml",
+                    "from": {
+                        "startLines": "2,4,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "57,138,100",
+                        "endColumns": "41,34,36",
+                        "endOffsets": "94,168,132"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,97,132",
+                        "endColumns": "41,34,36",
+                        "endOffsets": "92,127,164"
+                    }
+                },
+                {
+                    "source": "D:\\Code\\testFragmentDemo\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "169,227",
+                        "endColumns": "57,55",
+                        "endOffsets": "222,278"
+                    }
+                },
+                {
+                    "source": "D:\\Code\\testFragmentDemo\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,5,10,11,9,8,6,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "113,58,167,395,442,350,307,220,263",
+                        "endColumns": "52,53,52,45,45,43,41,42,42",
+                        "endOffsets": "161,107,215,436,483,389,344,258,301"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "283,336,390,443,489,535,579,621,664",
+                        "endColumns": "52,53,52,45,45,43,41,42,42",
+                        "endOffsets": "331,385,438,484,530,574,616,659,702"
+                    }
+                },
+                {
+                    "source": "D:\\Code\\testFragmentDemo\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "16,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "707,998",
+                        "endLines": "22,25",
+                        "endColumns": "12,12",
+                        "endOffsets": "993,1153"
+                    }
+                }
+            ]
+        }
+    ]
+}

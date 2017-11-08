@@ -1,0 +1,2 @@
+include ':app', ':mvpdemo1.0', ':dailynewsdemo1.0', ':importdemo1.0', ':mvpdemo1.1', ':ceshidemo1.0', ':retrofitdemo1.0', ':retrofitdemo1.1', ':ebdemo1.0'
+include ':testFragmentDemo'
